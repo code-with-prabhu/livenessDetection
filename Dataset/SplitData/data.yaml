@@ -1,0 +1,6 @@
+train: D:\Minor_Project-2\pythonProject\Dataset\SplitData\train
+val: D:\Minor_Project-2\pythonProject\Dataset\SplitData\val
+test: D:\Minor_Project-2\pythonProject\Dataset\SplitData\test
+
+nc: 2
+names: ['fake', 'real']
